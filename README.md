@@ -92,24 +92,6 @@
 
 ---
 
-## Финальная структура файлов (для ZIP-архива):
-
-\\\
-Финальный_проект.zip
-├── SQL_queries.sql
-├── Тестирование Аналитик.xlsx
-├── Assignment.xlsx
-├── report.pbix
-├── report.pdf
-├── Блок 3.ipynb
-├── data.csv
-├── Ответы на тестовое задание.docx
-├── README.md
-└── github_links.txt  # ссылки на репозитории
-\\\
-
----
-
 ## Ссылки на репозитории
 
 - [SQL](https://github.com/AibekAskan/Project_Academica/tree/main/SQL)
